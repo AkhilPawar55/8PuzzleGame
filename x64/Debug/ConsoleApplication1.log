@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Board.cpp
+C:\Users\akhil\Documents\8-puzzle-problem-master\A star pathfinding\A Star Pathfinding\HW3 Final\ConsoleApplication1-20161111T030032Z\ConsoleApplication1\ConsoleApplication1\Board.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.cpp
+  Display.cpp
+  Tree.cpp
+C:\Users\akhil\Documents\8-puzzle-problem-master\A star pathfinding\A Star Pathfinding\HW3 Final\ConsoleApplication1-20161111T030032Z\ConsoleApplication1\ConsoleApplication1\Tree.cpp(463,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\akhil\Documents\8-puzzle-problem-master\A star pathfinding\A Star Pathfinding\HW3 Final\ConsoleApplication1-20161111T030032Z\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

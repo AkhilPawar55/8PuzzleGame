@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  main.cpp
+  Board.cpp
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Board.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Board.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+  Display.cpp
+  Tree.cpp
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(65,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(415,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(418,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(438,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\8PuzzleGame\Tree.cpp(477,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  8PuzzleGame.vcxproj -> C:\Users\akhil\Documents\8-puzzle-problem-master\8PuzzleGame\Debug\8PuzzleGame.exe
